@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est 0C4F-358B
+
+ R‚pertoire de C:\Users\33769\Desktop\MyProjectGit
+
+26/04/2020  18:06    <DIR>          .
+26/04/2020  18:06    <DIR>          ..
+26/04/2020  18:06                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  392ÿ159ÿ961ÿ088 octets libres
